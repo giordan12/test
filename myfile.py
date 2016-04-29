@@ -4,4 +4,5 @@ y = 5
 
 def product(a, b):
     a + b
+    a * b
     return a * b
